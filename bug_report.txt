@@ -1,1 +1,2 @@
-
+bug report 1
+bug report 2
